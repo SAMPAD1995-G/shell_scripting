@@ -7,7 +7,7 @@
 
 #seq 1 2 15     # first number(1) increment(2) last number(15)
 
-#seq 15 -2 1    # first number(1) increment(2) last number(15)
+#seq 15 -2 1    # first number(15) increment(-2) last number(1)
 
 
 #seq -w 1 2 15   # '-w' option equalizes width by padding with leading zeroes
